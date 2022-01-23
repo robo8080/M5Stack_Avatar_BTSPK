@@ -13,7 +13,9 @@ Bluetooth Speaker対応のM5Stack_Avatarです。<br>
 * "BluetoothA2DPSink.cpp"の下図赤枠部分を追加します。<br>
 ![画像1](images/image1.png)<br>
 <br>
+
 ---
+
 ### 使い方 ###
 * スマホなどでペアリングを選択すると"Avatar"というデバイスが表示されるので選択して接続してください。
 <br><br>
