@@ -12,7 +12,14 @@ Bluetooth Speaker対応のM5Stack_Avatarです。<br>
 ### 事前にESP32-A2DPライブラリを変更しておきます ###
 * "BluetoothA2DPSink.cpp"の下図赤枠部分を追加します。<br>
 ![画像1](images/image1.png)<br>
-<br>
+<br><br>
+
+
+### もしリブートを繰り返す症状が出たときは、M5Stack-Avatarライブラリを修正してください。 ###
+* "Avatar.cpp"の下図赤枠部分を変更します。
+![画像1](images/image2.png)<br><br><br>
+
+
 
 ---
 
